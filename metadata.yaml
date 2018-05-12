@@ -1,0 +1,32 @@
+_repo: Jephthas-bokEn-Minnes-S-ng-i-Isra-l_24100
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Nervander, Johan Jacob
+    aliases:
+    - Nervander, J. J.
+    - Nervander, Johan Jakob
+    birthdate: 1805
+    deathdate: 1848
+    gutenberg_agent_id: '26249'
+    url: http://www.gutenberg.org/2009/agents/26249
+    wikipedia: http://fi.wikipedia.org/wiki/Johan_Jakob_Nervander
+description: ''
+gutenberg_issued: '2008-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24100'
+language: sv
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Bible -- History of Biblical events -- Poetry'
+title: 'Jephthas bok
+
+  En Minnes-Sång i Israël'
+url: http://www.gutenberg.org/ebooks/24100
